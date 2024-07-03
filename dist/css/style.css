@@ -7863,11 +7863,11 @@ textarea.form-control-lg {
 
 .fs-6 {
   font-size: 1.25rem !important;
+  line-height: 2.25rem;
 }
 
 .fs-7 {
-  font-size: 1.5rem !important;
-  line-height: 2.25rem;
+  font-size: 1.125rem !important;
 }
 
 .fs-8 {
@@ -11612,7 +11612,7 @@ textarea.form-control {
     padding-top: 30px;
   }
   .service, .our-service, .portfolio, .pricing, .faq {
-    padding: 40px 0;
+    padding: 40px 22px;
   }
   .hero-banner {
     padding-bottom: 30px;
@@ -11704,7 +11704,7 @@ textarea.form-control {
     padding: 20px;
   }
   .contact {
-    padding: 40px 0 40px;
+    padding: 40px 10px 40px;
   }
   .contact .dots-shape-left {
     display: none;
@@ -11777,3 +11777,6 @@ font-size: 45px !important;
 }/*# sourceMappingURL=style.css.map */
 
 
+/* .footer-text{
+  color: #FFF4CE;
+} */
