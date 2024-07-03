@@ -11774,9 +11774,16 @@ font-size: 45px !important;
     display: flex;
       line-height: 1.5rem;
   }
+  .footer-tele-button{
+    flex-direction: column;
+    padding: 10px 10px;
+     gap: 0.5rem;
+     width: 88vw !important;
+  }
 }/*# sourceMappingURL=style.css.map */
 
 
 /* .footer-text{
   color: #FFF4CE;
 } */
+
