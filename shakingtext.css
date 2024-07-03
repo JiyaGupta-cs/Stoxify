@@ -1,0 +1,24 @@
+.shaking {
+    font-size: 1.5rem !important;
+    /* text-align: center; */
+    margin-top: 15px;
+    margin-left: 15px;
+    font-weight:900 !important;
+    color: red !important;
+   
+  }
+  
+  /* Define the keyframes for the animation */
+  @keyframes shake {
+    0% {transform: translateX(0);}
+    10%, 90% {transform: translateX(-5px);}
+    20%, 80% {transform: translateX(5px);}
+    30%, 50%, 70% {transform: translateX(-5px);}
+    40%, 60% {transform: translateX(5px);}
+    100% {transform: translateX(0);}
+  }
+  
+  /* Apply the animation to the text */
+  .shaking{
+    animation: shake 1s infinite;
+  }
