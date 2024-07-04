@@ -11787,3 +11787,12 @@ font-size: 45px !important;
   color: #FFF4CE;
 } */
 
+.tele-fix{
+  z-index: 20;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  bottom: 20vh;
+  background-color: #ee7b11;
+  border-radius: 10px 0px 0px 10px ;
+}
