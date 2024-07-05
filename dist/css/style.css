@@ -18,7 +18,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #001C68;
+  --bs-blue: #01011d;
   --bs-indigo: #5243C2;
   --bs-purple: #611F69;
   --bs-pink: #d63384;
@@ -45,8 +45,8 @@
   --bs-secondary: #061434;
   --bs-info: #2776fc;
   --bs-light: #F9F9FB;
-  --bs-warning: #EE7B11;
-  --bs-primary-rgb: 22, 66, 185;
+  --bs-warning: #2f6cfb;
+  --bs-primary-rgb: 1,1,29;
   --bs-secondary-rgb: 6, 20, 52;
   --bs-info-rgb: 39, 118, 252;
   --bs-light-rgb: 249, 249, 251;
@@ -3000,8 +3000,8 @@ textarea.form-control-lg {
 
 .btn-warning {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #EE7B11;
-  --bs-btn-border-color: #EE7B11;
+  --bs-btn-bg: #2f6cfb;
+  --bs-btn-border-color: #2f6cfb;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #ca690e;
   --bs-btn-hover-border-color: #be620e;
@@ -3011,8 +3011,8 @@ textarea.form-control-lg {
   --bs-btn-active-border-color: #b35c0d;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #EE7B11;
-  --bs-btn-disabled-border-color: #EE7B11;
+  --bs-btn-disabled-bg: #2f6cfb;
+  --bs-btn-disabled-border-color: #2f6cfb;
 }
 
 .btn-outline-primary {
@@ -3084,19 +3084,19 @@ textarea.form-control-lg {
 }
 
 .btn-outline-warning {
-  --bs-btn-color: #EE7B11;
-  --bs-btn-border-color: #EE7B11;
+  --bs-btn-color: #2f6cfb;
+  --bs-btn-border-color: #2f6cfb;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #EE7B11;
-  --bs-btn-hover-border-color: #EE7B11;
+  --bs-btn-hover-bg: #2f6cfb;
+  --bs-btn-hover-border-color: #2f6cfb;
   --bs-btn-focus-shadow-rgb: 238, 123, 17;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #EE7B11;
-  --bs-btn-active-border-color: #EE7B11;
+  --bs-btn-active-bg: #2f6cfb;
+  --bs-btn-active-border-color: #2f6cfb;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #EE7B11;
+  --bs-btn-disabled-color: #2f6cfb;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #EE7B11;
+  --bs-btn-disabled-border-color: #2f6cfb;
   --bs-gradient: none;
 }
 
@@ -3105,9 +3105,9 @@ textarea.form-control-lg {
   --bs-btn-color: #1642B9;
   --bs-btn-bg: transparent;
   --bs-btn-border-color: transparent;
-  --bs-btn-hover-color: #001C68;
+  --bs-btn-hover-color: #01011d;
   --bs-btn-hover-border-color: transparent;
-  --bs-btn-active-color: #001C68;
+  --bs-btn-active-color: #01011d;
   --bs-btn-active-border-color: transparent;
   --bs-btn-disabled-color: #8A8A8A;
   --bs-btn-disabled-border-color: transparent;
@@ -6677,7 +6677,7 @@ textarea.form-control-lg {
 }
 
 .link-warning {
-  color: #EE7B11 !important;
+  color: #2f6cfb !important;
 }
 .link-warning:hover, .link-warning:focus {
   color: #be620e !important;
@@ -10869,7 +10869,7 @@ textarea.form-control-lg {
   width: 35%;
   height: 100%;
   background-size: cover;
-  background-image: url(../../assets/images/hero/right-background.svg);
+  background-image: url(../../assets/images/hero/right-background.png);
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -11105,7 +11105,7 @@ textarea.form-control-lg {
   width: 100%;
   height: 100%;
   background-size: contain;
-  background-image: url(../../assets/images/price-plans/price-plan-background-icons.svg);
+  /* background-image: url(../../assets/images/price-plans/price-plan-background-icons.svg); */
   background-repeat: no-repeat;
   background-position: center;
   z-index: 0;
@@ -11138,7 +11138,7 @@ textarea.form-control-lg {
   width: 130px;
   height: 130px;
   background-size: contain;
-  background-image: url(../../assets/images/price-plans/dot-shape.png);
+  /* background-image: url(../../assets/images/price-plans/dot-shape.png); */
   background-repeat: no-repeat;
   z-index: -1;
   background-position: center;
@@ -11361,7 +11361,7 @@ textarea.form-control-lg {
 
 .footer {
   padding: 170px 0 100px;
-  background-color: #001C68;
+  background-color: #01011d;
 }
 .footer .footer-logo-col {
   padding-right: 120px;
@@ -11384,7 +11384,7 @@ textarea.form-control-lg {
   font-weight: 500;
 }
 .footer ul li a:hover {
-  color: #EE7B11;
+  color: #2f6cfb;
 }
 .footer .subscribe .input-group:not(.has-validation) > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating) {
   border-top-right-radius: 15px;
@@ -11793,6 +11793,6 @@ font-size: 45px !important;
   position: fixed;
   right: 0;
   bottom: 20vh;
-  background-color: #ee7b11;
+  background-color: #2f6cfb;
   border-radius: 10px 0px 0px 10px ;
 }

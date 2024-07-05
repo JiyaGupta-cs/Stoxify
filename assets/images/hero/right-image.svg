@@ -13,7 +13,7 @@
 <rect x="112.984" y="281.862" width="40.9921" height="101.984" rx="8" fill="#1D1D1D"/>
 <rect x="181.447" y="257.301" width="40.9921" height="126.544" rx="8" fill="#1D1D1D"/>
 <rect x="249.911" y="218.48" width="40.9921" height="165.366" rx="8" fill="#1D1D1D"/>
-<rect x="354.025" y="64.4062" width="350.27" height="605.049" rx="20" fill="#EE7B11"/>
+<rect x="354.025" y="64.4062" width="350.27" height="605.049" rx="20" fill="#2f6cfb"/>
 <line opacity="0.05" x1="353.81" y1="569.747" x2="704.041" y2="569.747" stroke="black"/>
 <line opacity="0.05" x1="353.81" y1="492.247" x2="704.041" y2="492.247" stroke="black"/>
 <line opacity="0.05" x1="353.81" y1="414.747" x2="704.041" y2="414.747" stroke="black"/>

@@ -103,26 +103,26 @@
 <path d="M1642.6 1215.86C1644.26 1215.86 1645.6 1214.52 1645.6 1212.86C1645.6 1211.21 1644.26 1209.86 1642.6 1209.86C1640.95 1209.86 1639.6 1211.21 1639.6 1212.86C1639.6 1214.52 1640.95 1215.86 1642.6 1215.86Z" fill="#B7BBC4"/>
 </g>
 <circle cx="16" cy="117.836" r="8" fill="#FFE073"/>
-<circle cx="97.1112" cy="64.3817" r="2.73603" fill="#EE7B11"/>
+<circle cx="97.1112" cy="64.3817" r="2.73603" fill="#2f6cfb"/>
 <circle cx="83.9703" cy="3.57246" r="2.73603" fill="#31FFF3"/>
 <circle cx="191.533" cy="94.483" r="1.92193" fill="#165DF5"/>
 <circle r="8" transform="matrix(0 -1 -1 0 12 1007.06)" fill="#FFE073"/>
-<circle r="2.73603" transform="matrix(0 -1 -1 0 65.4547 925.953)" fill="#EE7B11"/>
+<circle r="2.73603" transform="matrix(0 -1 -1 0 65.4547 925.953)" fill="#2f6cfb"/>
 <circle r="2.73603" transform="matrix(0 -1 -1 0 126.264 939.094)" fill="#31FFF3"/>
 <circle r="1.92193" transform="matrix(0 -1 -1 0 35.3535 831.531)" fill="#165DF5"/>
 <circle r="8" transform="matrix(-1 0 0 1 1885.46 527)" fill="#FFE073"/>
-<circle r="2.73603" transform="matrix(-1 0 0 1 1865.36 275.279)" fill="#EE7B11"/>
+<circle r="2.73603" transform="matrix(-1 0 0 1 1865.36 275.279)" fill="#2f6cfb"/>
 <circle r="2.73603" transform="matrix(-1 0 0 1 1817.48 412.736)" fill="#31FFF3"/>
 <circle r="1.92193" transform="matrix(-1 0 0 1 1709.92 503.646)" fill="#165DF5"/>
 <circle cx="485.264" cy="315.261" r="8" fill="#FFE073"/>
-<circle cx="441.777" cy="332.913" r="2.73603" fill="#EE7B11"/>
-<circle cx="493.264" cy="320.525" r="2.73603" fill="#EE7B11"/>
+<circle cx="441.777" cy="332.913" r="2.73603" fill="#2f6cfb"/>
+<circle cx="493.264" cy="320.525" r="2.73603" fill="#2f6cfb"/>
 <circle cx="459.704" cy="288.94" r="1.92193" fill="#165DF5"/>
-<circle cx="1374.38" cy="277.598" r="2.73603" fill="#EE7B11"/>
-<circle cx="1425.87" cy="265.21" r="2.73603" fill="#EE7B11"/>
+<circle cx="1374.38" cy="277.598" r="2.73603" fill="#2f6cfb"/>
+<circle cx="1425.87" cy="265.21" r="2.73603" fill="#2f6cfb"/>
 <circle cx="1392.31" cy="233.626" r="1.92193" fill="#165DF5"/>
-<circle cx="1710.45" cy="917.596" r="2.73603" fill="#EE7B11"/>
-<circle cx="1761.94" cy="905.208" r="2.73603" fill="#EE7B11"/>
+<circle cx="1710.45" cy="917.596" r="2.73603" fill="#2f6cfb"/>
+<circle cx="1761.94" cy="905.208" r="2.73603" fill="#2f6cfb"/>
 <circle cx="1728.38" cy="873.624" r="1.92193" fill="#165DF5"/>
 </g>
 <defs>
